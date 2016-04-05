@@ -1,7 +1,7 @@
 name: salman_tahir
 favicon: null
-layout_spectrum: 0.7690086252987385
-typography_spectrum: 0.10711479815654457
+layout_spectrum: 1
+typography_spectrum: 0.25349
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.25054212054237723
-  lightness: 0.15852893167175353
-  saturation: 0.24871562980115414
-  rhythmicContrast: 0.15876140794716775
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
